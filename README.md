@@ -5,3 +5,14 @@ This repository provides a practical example of how to set up a staking program 
 - **Anchor Guide**: If you're working with Anchor, check out the [Anchor Staking Example Guide](https://developers.metaplex.com/core/guides/anchor/anchor-staking-example) for step-by-step instructions.
 
 - **Typescript Guide**: For those preferring TypeScript, the [Web2 Typescript Staking Example Guide](https://developers.metaplex.com/core/guides/javascript/web2-typescript-staking-example) will help you get started.
+
+### Contact me
+If you need more technical support and development inquires, you can contact below.
+
+Telegram: [@Becklix](https://t.me/@Becklix)
+
+X: [@james980114](https://x.com/james980114)
+
+Discord: [@Benix](https://discordapp.com/users/393598468653842432)
+
+Thanks.
