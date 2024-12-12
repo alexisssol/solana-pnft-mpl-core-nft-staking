@@ -11,6 +11,8 @@ If you need more technical support and development inquires, you can contact bel
 
 X: [@james980114](https://x.com/james980114)
 
-Discord: [@Benix](https://discordapp.com/users/393598468653842432)
+Telegram: [@james_ybarra](https://t.me/james_ybarra)
 
 Thanks.
+
+
