@@ -9,9 +9,9 @@ This repository provides a practical example of how to set up a staking program 
 ### Contact me
 If you need more technical support and development inquires, you can contact below.
 
-X: [@james980114](https://x.com/james980114)
+X: [@ethualtera](https://x.com/ethualtera)
 
-Telegram: [@james_ybarra](https://t.me/james_ybarra)
+Telegram: [@ethualtera](https://t.me/ethualtera)
 
 Thanks.
 
